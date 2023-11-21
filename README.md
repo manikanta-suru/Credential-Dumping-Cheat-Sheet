@@ -31,7 +31,7 @@ This booklet is perfect for anyone looking to deepen their understanding of cred
 - System Administrators
 - Information Security Researchers
 
-## 📖 [Read the Full Booklet](link_to_full_booklet)
+## 📖 [Read the Full Booklet](https://github.com/manikanta-suru/Credential-Dumping-Cheat-Sheet.git)
 
 Feel free to explore and contribute to make this resource even more valuable!
 
